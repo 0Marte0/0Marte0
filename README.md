@@ -2,7 +2,7 @@
 🎉 Bem-vindo ao meu repositório! Aqui, compartilho a minha jornada emocionante como programador. Sou um iniciante focado em criar experiências interativas e estou sempre em busca de aprender e aprimorar minhas habilidades.
 
 # __O que você encontrará aqui:__
-- 📚 Informações sobre meu aprendizado em programação, incluindo a linguagem Python.
+- 📚 Informações sobre meu aprendizado em programação
 - 🚀 Projetos e experimentos que estou desenvolvendo, prontos para serem explorados!
 - 💡 Reflexões sobre as lições valiosas que aprendo ao longo do caminho.
 Sinta-se à vontade para explorar e acompanhar meu progresso. Estou aberto a feedback e sugestões! Vamos juntos nessa aventura!
